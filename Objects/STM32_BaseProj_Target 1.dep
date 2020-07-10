@@ -1,0 +1,15 @@
+Dependencies for Project 'STM32_BaseProj', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Device\ST\STM32F4xx\Source\Templates\system_stm32f4xx.c)(0x5A8F9364)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\Device\ST\STM32F4xx\Include -I .\CMSIS\Core\Include-I.\RTE\_Target_1-ID:\Keil_v5\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F407xx-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (.\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5A8F9364)
+I (.\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x5A8F9364)
+I (.\CMSIS\Core\Include\core_cm4.h)(0x5B617084)
+I (D:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F606B8)
+I (.\CMSIS\Core\Include\cmsis_version.h)(0x5B1F3E94)
+I (.\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)
+I (.\CMSIS\Core\Include\cmsis_armcc.h)(0x5B617084)
+I (.\CMSIS\Core\Include\mpu_armv7.h)(0x5B617084)
+I (.\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5A8F9364)
+F (.\Device\ST\STM32F4xx\Source\Templates\arm\startup_stm32f407xx.s)(0x5A8F9364)(--cpu Cortex-M4.fp -g --apcs=interwork -I.\RTE\_Target_1-ID:\Keil_v5\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 523" --pd "STM32F407xx SETA 1"--list .\listings\startup_stm32f407xx.lst --xref -o .\objects\startup_stm32f407xx.o --depend .\objects\startup_stm32f407xx.d)
+F (.\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5A8F9364)()
+F (.\CMSIS\Core\Include\cmsis_compiler.h)(0x5B5843C6)()
+F (.\main.c)(0x5F08927C)(--c99 -c --cpu Cortex-M4.fp -g -O0 --apcs=interwork --split_sections -I .\Device\ST\STM32F4xx\Include -I .\CMSIS\Core\Include-I.\RTE\_Target_1-ID:\Keil_v5\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-ID:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="523" -DSTM32F407xx-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
