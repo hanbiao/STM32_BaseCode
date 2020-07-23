@@ -22,6 +22,7 @@ stm32 open source project base
 +License - 各种库的license
 
 +Middleware - 第三方库
+	+FreeRTOSv10.2.1 - 内核
 
 +Libraries - 外设驱动库, 驱动库来源于STM32F4-Discovery_FW_V1.1.0, HAL库来源于Keil的DFP package
     +STM32F4xx_StdPeriph_Driver - 用这个库的时候要替换Device文件夹下的stm32f4xx.h
@@ -34,8 +35,12 @@ stm32 open source project base
 +Config - 库的配置文件
 	+HAL Libraries
 		stm32_assert.h  - 自定义assert实现
-		stm32f4xx_hal_conf - HAL配置
+		stm32f4xx_hal_conf - HAL库配置
 	+Standard Libraries
 		stm32f4xx.h  - 要用标准库，则需要用这个头文件
 		stm32f4xx_conf - 标准库模块配置
+	+FreeRTOS 
+		FreeRTOSConfig.h - 内核剪裁配置文件
+		
++Utilities - 辅助接口
 
