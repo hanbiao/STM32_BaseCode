@@ -924,11 +924,6 @@
               <FilePath>.\Source\Middleware\FreeRTOSv10.2.1\Source\timers.c</FilePath>
             </File>
             <File>
-              <FileName>mpu_wrappers.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\Common\mpu_wrappers.c</FilePath>
-            </File>
-            <File>
               <FileName>heap_1.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\MemMang\heap_1.c</FilePath>
@@ -937,6 +932,11 @@
               <FileName>port.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\RVDS\ARM_CM4F\port.c</FilePath>
+            </File>
+            <File>
+              <FileName>portmacro.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\RVDS\ARM_CM4F\portmacro.h</FilePath>
             </File>
           </Files>
         </Group>

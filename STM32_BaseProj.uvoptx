@@ -1375,7 +1375,7 @@
 
   <Group>
     <GroupName>FreeRTOSv10.2.1</GroupName>
-    <tvExp>0</tvExp>
+    <tvExp>1</tvExp>
     <tvExpOptDlg>0</tvExpOptDlg>
     <cbSel>0</cbSel>
     <RteFlg>0</RteFlg>
@@ -1470,8 +1470,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\Common\mpu_wrappers.c</PathWithFileName>
-      <FilenameWithoutPath>mpu_wrappers.c</FilenameWithoutPath>
+      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\MemMang\heap_1.c</PathWithFileName>
+      <FilenameWithoutPath>heap_1.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
@@ -1482,20 +1482,20 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\MemMang\heap_1.c</PathWithFileName>
-      <FilenameWithoutPath>heap_1.c</FilenameWithoutPath>
+      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\RVDS\ARM_CM4F\port.c</PathWithFileName>
+      <FilenameWithoutPath>port.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
     <File>
       <GroupNumber>9</GroupNumber>
       <FileNumber>105</FileNumber>
-      <FileType>1</FileType>
+      <FileType>5</FileType>
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\RVDS\ARM_CM4F\port.c</PathWithFileName>
-      <FilenameWithoutPath>port.c</FilenameWithoutPath>
+      <PathWithFileName>.\Source\Middleware\FreeRTOSv10.2.1\Source\portable\RVDS\ARM_CM4F\portmacro.h</PathWithFileName>
+      <FilenameWithoutPath>portmacro.h</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
